@@ -21,10 +21,10 @@ export default function ContactSection() {
                   Email
                 </h3>
                 <a
-                  href="mailto:contact@example.com"
+                  href="smartoparaugo@gmail.com"
                   className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400"
                 >
-                  contact@example.com
+                  smartoparaugo@gmail.com
                 </a>
               </div>
             </div>
@@ -38,7 +38,7 @@ export default function ContactSection() {
                   Phone
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400">
-                  +1 (234) 567-8900
+                  +234 7036062371
                 </p>
               </div>
             </div>
@@ -52,7 +52,7 @@ export default function ContactSection() {
                   Location
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400">
-                  San Francisco, CA
+                  PortHarcourt,Nigeria
                 </p>
               </div>
             </div>
