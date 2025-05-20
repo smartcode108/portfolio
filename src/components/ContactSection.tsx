@@ -21,7 +21,7 @@ export default function ContactSection() {
                   Email
                 </h3>
                 <a
-                  href="smartoparaugo@gmail.com"
+                  href="mailto:smartoparaugo@gmail.com"
                   className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400"
                 >
                   smartoparaugo@gmail.com
