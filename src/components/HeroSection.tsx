@@ -17,7 +17,7 @@ export default function HeroSection() {
         
         <div className="flex justify-center space-x-6 mb-12">
           <a
-            href="https://github.com"
+            href="https://github.com/smartcode108"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -25,7 +25,7 @@ export default function HeroSection() {
             <Github className="w-6 h-6" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/smart-chidi-oparaugo-275439144"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -33,7 +33,7 @@ export default function HeroSection() {
             <Linkedin className="w-6 h-6" />
           </a>
           <a
-            href="mailto:contact@example.com"
+            href="mailto:smartoparaugo@gmail.com"
             className="p-3 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
           >
             <Mail className="w-6 h-6" />
